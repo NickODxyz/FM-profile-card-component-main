@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Mentor - Profile Card Component Solution</h1>
 
-<img src="https://github.com/NickODxyz/FM-nft-preview-card-component-main/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-profile-card-component-main/blob/main/Preview.JPG?raw=true" ></img>
 
 <br>
 
