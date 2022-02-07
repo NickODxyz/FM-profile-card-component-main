@@ -36,9 +36,9 @@ Frontend Mentor [Solution Page]()
 
 [Figma](https://www.figma.com)
 <br>
-[Kevin Powell - Controlling Background Images | CSS Tutorial](https://www.youtube.com/watch?v=3T_Jy1CqH9k&t=466s)
+Kevin Powell - [Controlling Background Images | CSS Tutorial](https://www.youtube.com/watch?v=3T_Jy1CqH9k&t=466s)
 <br>
-[Web Dev Simplified - Learn CSS Position in 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU&t=338s)
+Web Dev Simplified - [Learn CSS Position in 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU&t=338s)
 
 <br>
 
