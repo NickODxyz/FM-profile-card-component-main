@@ -26,9 +26,9 @@ Ah background image placement will be the bain of my life lol. But I guess the m
 <br>
 
 ## Site links
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-profile-card-component-main/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/profile-card-component-IeGNr876u)
 
 <br>
 
