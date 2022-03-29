@@ -23,6 +23,7 @@ body {
 .wrapper {
     background: var(--dark-cyan);
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 37.5rem;
@@ -131,10 +132,10 @@ body {
     }
 }
 
-/* .attribution {
+.attribution {
     font-size: 11px;
     text-align: center;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
-} */
+}
